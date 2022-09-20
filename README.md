@@ -45,10 +45,10 @@ Most important word:<br>
 *product*: Most likely referring to the product being reviewed, but could indicate other products being compared
 
 Other important word categories:<br>
->Various terms indicate focus on build quality:
->Various terms indicate focus on sound quality:
->Various terms indicate focus on product features:
->Various terms indicate focus on customer experience:
+>Various terms indicate focus on build quality:<br>
+>Various terms indicate focus on sound quality:<br>
+>Various terms indicate focus on product features:<br>
+>Various terms indicate focus on customer experience:<br>
 >Various terms indicate focus on price and product value:
 
 ## Conclusions from the initial analysis of good/bad reviews
