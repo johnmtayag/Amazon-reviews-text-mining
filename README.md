@@ -30,8 +30,8 @@ Instead of building a model to predict a rating from 1-5 stars, to simplify the 
 Reducing the number of classes also addresses one of the big issues with the dataset - the data is heavily skewed toward good reviews. In fact, the 4-5 star category makes up 2/3 of the data entirely. While binning the reviews does not equalize the number in either category, it improves the situation greatly.
 
 <p align="center">
-    <img src="images\pie_review_split.PNG" height="400">
-    <img src="images\pie_good_bad.PNG" height="400"><br>
+    <img src="images\pie_review_split.png" height="400">
+    <img src="images\pie_good_bad.png" height="400"><br>
     <em><b>Left</b>: The distribution of 1-5 star reviews from the original dataset<br>
     <b>Right</b>: The distribution of the grouped good and bad reviews</em>
 </p>
